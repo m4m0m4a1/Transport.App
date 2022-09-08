@@ -1,0 +1,60 @@
+C:\Transportadora\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.deps.json
+C:\Transportadora\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Transportadora\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.AssemblyReference.cache
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfoInputs.cache
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfo.cs
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.dll
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\refint\Transport.App.Dominio.dll
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Transportadora\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\ref\Transport.App.Dominio.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.deps.json
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfo.cs
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\refint\Transport.App.Dominio.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\Harold\Documents\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\ref\Transport.App.Dominio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.deps.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\refint\Transport.App.Dominio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\ref\Transport.App.Dominio.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.deps.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfo.cs
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\refint\Transport.App.Dominio.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\ref\Transport.App.Dominio.dll
+C:\Clonacion\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.deps.json
+C:\Clonacion\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Clonacion\Transport.App\Transport.App.Dominio\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.AssemblyReference.cache
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfoInputs.cache
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.AssemblyInfo.cs
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.dll
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\refint\Transport.App.Dominio.dll
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Clonacion\Transport.App\Transport.App.Dominio\obj\Debug\net6.0\ref\Transport.App.Dominio.dll
