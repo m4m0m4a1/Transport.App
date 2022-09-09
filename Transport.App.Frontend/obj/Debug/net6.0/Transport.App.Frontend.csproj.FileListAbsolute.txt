@@ -24,3 +24,29 @@ C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\refint\Transp
 C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.pdb
 C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.genruntimeconfig.cache
 C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\ref\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.staticwebassets.runtime.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.exe
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.deps.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.runtimeconfig.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Transport.App.Frontend.styles.css
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Transport.App.Frontend.bundle.scp.css
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\refint\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\ref\Transport.App.Frontend.dll

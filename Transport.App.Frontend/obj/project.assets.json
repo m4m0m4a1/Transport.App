@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Martha\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Clonacion\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
       "projectName": "Transport.App.Frontend",
-      "projectPath": "C:\\Clonacion\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
-      "outputPath": "C:\\Clonacion\\Transport.App\\Transport.App.Frontend\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
