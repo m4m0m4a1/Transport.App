@@ -1,0 +1,85 @@
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.AssemblyReference.cache
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfoInputs.cache
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfo.cs
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Transportadora\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.deps.json
+C:\Transportadora\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.runtimeconfig.json
+C:\Transportadora\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Transportadora\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Transportadora\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Transportadora\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CopyComplete
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\refint\Transport.App.Persistencia.dll
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.genruntimeconfig.cache
+C:\Transportadora\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\ref\Transport.App.Persistencia.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfo.cs
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\refint\Transport.App.Persistencia.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.deps.json
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.runtimeconfig.json
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CopyComplete
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.genruntimeconfig.cache
+C:\Users\Harold\Documents\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\ref\Transport.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.deps.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.runtimeconfig.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\refint\Transport.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\ref\Transport.App.Persistencia.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.deps.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.runtimeconfig.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfo.cs
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CopyComplete
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\refint\Transport.App.Persistencia.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.genruntimeconfig.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\ref\Transport.App.Persistencia.dll
+C:\Clonacion\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.deps.json
+C:\Clonacion\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.runtimeconfig.json
+C:\Clonacion\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Clonacion\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Clonacion\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Clonacion\Transport.App\Transport.App.Persistencia\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.AssemblyReference.cache
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfoInputs.cache
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.AssemblyInfo.cs
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.csproj.CopyComplete
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\refint\Transport.App.Persistencia.dll
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\Transport.App.Persistencia.genruntimeconfig.cache
+C:\Clonacion\Transport.App\Transport.App.Persistencia\obj\Debug\net6.0\ref\Transport.App.Persistencia.dll
