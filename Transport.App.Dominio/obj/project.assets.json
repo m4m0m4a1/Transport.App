@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Transportadora\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
       "projectName": "Transport.App.Dominio",
-      "projectPath": "C:\\Transportadora\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+      "projectPath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
-      "outputPath": "C:\\Transportadora\\Transport.App\\Transport.App.Dominio\\obj\\",
+      "outputPath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config"

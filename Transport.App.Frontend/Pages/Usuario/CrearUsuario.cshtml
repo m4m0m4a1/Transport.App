@@ -1,0 +1,80 @@
+﻿@page
+@model Transport.App.Frontend.Pages.CrearUsuarioModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <h1>CREANDO USUARIOS </h1>
+</head>
+<body>
+<div class="container">
+        <form>
+            
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Id</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Ingrese Id">
+            </div>
+
+             <div class="input-group mb-3">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Identificacion</button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">CC. Cedula de Ciudadania </a></li>
+                    <li><a class="dropdown-item" href="#">TI. Tarjeta de Identidad </a></li>
+                    <li><a class="dropdown-item" href="#">CE. Cedula de Extranjeria </a></li>
+                    <li><a class="dropdown-item" href="#">NIT. No de Identificacion Tributaria</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                   
+                </ul>
+                <input type="text" class="form-control" aria-label="Text input with dropdown button">
+            </div>
+    
+             <select class="form-select" aria-label="Default select example">
+                <option selected>Seleccione Rol</option>
+                <option value="1">Auxiliar</option>
+                <option value="2">Mecanico</option>
+                <option value="3">Conductor</option>
+                <option value="4">Jefe de Operaciones</option>
+                <option value="5">Dueño</option>
+            </select>
+
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name">
+            </div>
+           <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Apellido</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Last Name">
+            </div>
+
+            <select class="form-select" aria-label="Default select example">
+                <option selected>Seleccione Genero</option>
+                <option value="1">Masculino</option>
+                <option value="2">Femenino</option>
+            </select>
+
+           <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">No. Telefono</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Phone number">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+           <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Ciudad de Residencia</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder=" city">
+            </div>
+             <select class="form-select" aria-label="Default select example">
+                <option selected>Seleccione Nivel Escolar-(Mecanicos)</option>
+                <option value="1">Bachiller</option>
+                <option value="2">Técnico</option>
+                <option value="2">Tecnólogo</option>
+            </select>
+                
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

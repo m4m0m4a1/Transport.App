@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wm02aG9bq9NtBvYESY9yT4jnTpR6UKc+9vWh9xnzl6VLXXuQnYuXht8EsiH+bwMtsp/LqbdiO7WF+tfSBruZ9w==",
+  "dgSpecHash": "vZk6nDwJxcvIaqOwRQRxXXZglbmX3xWerE1ao3FcyMCoN2AdxtKIujTSy3TVo5y1crAFmw8FBxtKFlJyu4R7qA==",
   "success": true,
-  "projectFilePath": "C:\\Transportadora\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Clonacion\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Martha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

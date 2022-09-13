@@ -1,0 +1,44 @@
+﻿@page
+@model Transport.App.Frontend.Pages.RegistrarSeguroModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <h1>REGISTRANDO SEGURO </h1>
+</head>
+<body>
+<div class="container">
+        <form>
+            
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Id</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Ingrese Id">
+            </div>
+    
+            <select class="form-select" aria-label="Default select example">
+                <option selected>Escoja Tipo de Seguro</option>
+                <option value="1">SOAT</option>
+                <option value="2">Contractual</option>
+                <option value="3">Extracontractual</option>
+            </select>
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Fecha Compra de Seguro</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Ingrese Fecha de Compra d/m/a">
+            </div>
+           <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Fecha de Vencimiento</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Ingrese Fecha de Vencimiento d/m/a">
+            </div>
+           
+            
+           <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Descripcion</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Ingrese Descripciones adicionales">
+            </div>
+                
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

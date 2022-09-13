@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVcONokuuc0qaVHpZDTnim+7msHBjBfTioZYGdaipktoU/sIwVXKKAVcEozDATW5Ys963e32btEpzCkghR+Ztw==",
+  "dgSpecHash": "i6d+UpeejJ+q+scx4qHlFiKmGAcRv+ykxX3kvB8Yr5POqUlJyNbkyc0UJQStcqZs8gJvcHXdsl+TyfJzitoNKQ==",
   "success": true,
-  "projectFilePath": "C:\\Transportadora\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
+  "projectFilePath": "C:\\Clonacion\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Martha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Martha\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

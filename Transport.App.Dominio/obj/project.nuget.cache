@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2VzZL0fcTzRLV3ns4yHnNvv31W3vZaZwPWMwc27Vxq+ecPrAoFihlUghlGuwjkEN2NQwSWWce0Qtr5hih/7fw==",
+  "dgSpecHash": "gagbpmt4xrmA1o+3WY/07rsmnpGy6Lj7wR6dhoFXc6J4uwRrXFyfp3uIZL5A4Of/tqplP35bsuvLkNYod5WbtA==",
   "success": true,
-  "projectFilePath": "C:\\Transportadora\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+  "projectFilePath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
