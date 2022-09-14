@@ -1,7 +1,10 @@
+using Transport.App.Persistencia.AppRepositorios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddSingleton<IRepositorioTipoVehiculo, RepositorioTipoVehiculo>();
 
 var app = builder.Build();
 

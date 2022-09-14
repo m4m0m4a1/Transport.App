@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.8",
           "Microsoft.EntityFrameworkCore.Design": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.8",
           "Transport.App.Dominio": "1.0.0",
           "Transport.App.Persistencia": "1.0.0"

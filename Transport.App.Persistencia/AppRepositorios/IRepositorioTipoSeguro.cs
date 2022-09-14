@@ -1,10 +1,8 @@
 using System.Collections.Generic;
-using Transport.App.Dominio;
+using Transport.App.Dominio.Entidades;
 
 
-namespace Transport.App.Persistencia
-
-{
+namespace Transport.App.Persistencia.AppRepositorios;
 
 public interface IRepositorioTipoSeguro
 {
@@ -15,7 +13,5 @@ public interface IRepositorioTipoSeguro
     TipoSeguro UpdateTipoSeguro(TipoSeguro TipoSeguro);
     void DeleteTipoSeguro(int IdTipoSeguro);
     TipoSeguro GetTipoSeguro(int IdTipoSeguro);
-
-}
 
 }

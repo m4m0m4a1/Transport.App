@@ -1,11 +1,8 @@
 using System.Collections.Generic;
-using Transport.App.Dominio;
+using Transport.App.Dominio.Entidades;
 
 
-namespace Transport.App.Persistencia
-
-{
-
+namespace Transport.App.Persistencia.AppRepositorios;
 public interface IRepositorioNivelEstudio
 {
 
@@ -15,7 +12,5 @@ public interface IRepositorioNivelEstudio
     NivelEstudio UpdateNivelEstudio(NivelEstudio NivelEstudio);
     void DeleteNivelEstudio(int IdNivelEstudio);
     NivelEstudio GetNivelEstudio(int IdNivelEstudio);
-
-}
 
 }

@@ -1,11 +1,8 @@
 using System.Collections.Generic;
-using Transport.App.Dominio;
+using Transport.App.Dominio.Entidades;
 
 
-namespace Transport.App.Persistencia
-
-{
-
+namespace Transport.App.Persistencia.AppRepositorios;
 public interface IRepositorioGenero
 {
 
@@ -15,7 +12,5 @@ public interface IRepositorioGenero
     Genero UpdateGenero(Genero Genero);
     void DeleteGenero(int IdGenero);
     Genero GetGenero(int IdGenero);
-
-}
 
 }
