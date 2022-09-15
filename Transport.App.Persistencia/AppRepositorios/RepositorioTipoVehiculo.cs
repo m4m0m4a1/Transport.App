@@ -58,17 +58,18 @@ public class RepositorioTipoVehiculo : IRepositorioTipoVehiculo
         return _appContext.TipoVehiculo.FirstOrDefault(t => t.Id == IdTipoVehiculo);
     }
 
-    TipoVehiculo IRepositorioTipoVehiculo.UpdateTipoVehiculo(TipoVehiculo TipoVehiculo)
+    TipoVehiculo IRepositorioTipoVehiculo.UpdateTipoVehiculo(TipoVehiculo TipoVehiculoActual)
     {
-        var TipoVehiculoEncontrado = _appContext.TipoVehiculo.FirstOrDefault(t => t.Id == TipoVehiculo.Id);
+        var TipoVehiculoEncontrado = _appContext.TipoVehiculo.FirstOrDefault(t => t.Id == TipoVehiculoActual.Id);
+
         if (TipoVehiculoEncontrado != null)
         {
-            TipoVehiculoEncontrado.Descripcion = TipoVehiculo.Descripcion;
+            TipoVehiculoEncontrado.Descripcion = TipoVehiculoActual.Descripcion;
 
             _appContext.SaveChanges();
 
         }
-        return TipoVehiculo;
+        return TipoVehiculoEncontrado;
 
     }
 

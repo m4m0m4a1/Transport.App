@@ -8,93 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Transport.App.Frontend
 build_property.RootNamespace = Transport.App.Frontend
-build_property.ProjectDir = C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\
+build_property.ProjectDir = C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend
+build_property.MSBuildProjectDirectory = C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Error.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Index.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/NivelEstudio/crearNivelEstudio.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/NivelEstudio/crearNivelEstudio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWxFc3R1ZGlvXGNyZWFyTml2ZWxFc3R1ZGlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/NivelEstudio/menuNivelEstudio.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/NivelEstudio/menuNivelEstudio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWxFc3R1ZGlvXG1lbnVOaXZlbEVzdHVkaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Privacy.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/TipoIdentificacion/crearTipoIdentificacion.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/TipoIdentificacion/crearTipoIdentificacion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb0lkZW50aWZpY2FjaW9uXGNyZWFyVGlwb0lkZW50aWZpY2FjaW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/TipoIdentificacion/menuTipoIdentificacion.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/TipoIdentificacion/menuTipoIdentificacion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb0lkZW50aWZpY2FjaW9uXG1lbnVUaXBvSWRlbnRpZmljYWNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/menuUsuario.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/menuUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xtZW51VXN1YXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/persona.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/persona.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xwZXJzb25hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/ConsultarVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cQ29uc3VsdGFyVmVoaWN1bG8uY3NodG1s
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/CrearTipoVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cQ3JlYXJUaXBvVmVoaWN1bG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/crearTipoVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cY3JlYXJUaXBvVmVoaWN1bG8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/CrearVehiculo.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/CrearVehiculo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cQ3JlYXJWZWhpY3Vsby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/EliminarVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cRWxpbWluYXJWZWhpY3Vsby5jc2h0bWw=
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/EditarTipoVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cRWRpdGFyVGlwb1ZlaGljdWxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/ListarTipoVehiculo.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/ListarTipoVehiculo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cTGlzdGFyVGlwb1ZlaGljdWxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/ListarVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cTGlzdGFyVmVoaWN1bG8uY3NodG1s
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/MenuVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cTWVudVZlaGljdWxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/menuVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cbWVudVZlaGljdWxvLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/ModificarVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cTW9kaWZpY2FyVmVoaWN1bG8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/_ViewImports.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/_ViewStart.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Shared/_Layout.cshtml]
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n3ybk9g0tg

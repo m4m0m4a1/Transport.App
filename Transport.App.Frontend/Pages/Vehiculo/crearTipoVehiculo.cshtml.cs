@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Transport.App.Frontend.Pages
 {
-    public class crearTipoVehiculoModel : PageModel
+    public class CrearTipoVehiculoModel : PageModel
     {
         public void OnGet()
         {
