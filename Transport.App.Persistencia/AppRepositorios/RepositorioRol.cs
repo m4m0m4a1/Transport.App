@@ -22,6 +22,9 @@ public class RepositorioRol : IRepositorioRol
         _appContext = appContext;
     }
 
+    public RepositorioRol()
+    {
+    }
 
     Rol IRepositorioRol.AddRol(Rol Rol)
     {

@@ -17,6 +17,10 @@ public class RepositorioGenero : IRepositorioGenero
     ///</summary>
     ///<param name="appContext"></param>//
 
+    public RepositorioGenero()
+    {
+    }
+
     public RepositorioGenero(AppContext appContext)
     {
         _appContext = appContext;

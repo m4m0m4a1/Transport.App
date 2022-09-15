@@ -27,7 +27,6 @@ public class RepositorioTipoVehiculo : IRepositorioTipoVehiculo
         _appContext = appContext;
     }
 
-
     TipoVehiculo IRepositorioTipoVehiculo.AddTipoVehiculo(TipoVehiculo TipoVehiculo)
     {
         var TipoVehiculoAdicionado = _appContext.TipoVehiculo.Add(TipoVehiculo);

@@ -22,6 +22,9 @@ public class RepositorioTipoSeguro : IRepositorioTipoSeguro
         _appContext = appContext;
     }
 
+    public RepositorioTipoSeguro()
+    {
+    }
 
     TipoSeguro IRepositorioTipoSeguro.AddTipoSeguro(TipoSeguro TipoSeguro)
     {

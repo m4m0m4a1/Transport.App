@@ -23,6 +23,9 @@ public class RepositorioVehiculo : IRepositorioVehiculo
         _appContext = appContext;
     }
 
+    public RepositorioVehiculo()
+    {
+    }
 
     Vehiculo IRepositorioVehiculo.AddVehiculo(Vehiculo Vehiculo)
     {

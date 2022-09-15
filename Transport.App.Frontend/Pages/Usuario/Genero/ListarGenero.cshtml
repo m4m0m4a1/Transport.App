@@ -1,19 +1,19 @@
 ﻿@page
-@model Transport.App.Frontend.Pages.ListarTipoVehiculoModel
+@model Transport.App.Frontend.Pages.ListarGeneroModel
 @{
 }
 <div class="container">
     <div class="row">
         <div class="col-9">
-            <h2 class="text-info">Lista de Tipo de Vehiculo</h2>
+            <h2 class="text-info">Lista de Genero</h2>
         </div>
         <div class="col-3">
-            <a class="btn btn-secundary" asp-page="/Vehiculo/CrearTipoVehiculo">Crear Nuevo Tipo de Vehiculo</a>
+            <a class="btn btn-secundary" asp-page="/Usuario/Genero/CrearGenero">Crear Nuevo Genero</a>
         </div>
     </div>
     <br />
     <br />
-    <table id="tblTVehiculo" class="table table-striped table-bordered" style="width: 100%">
+    <table id="tblGenero" class="table table-striped table-bordered" style="width: 100%">
         <thead>
             <tr>
                 <th>ID</th>
@@ -21,13 +21,13 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var tipoVehiculo in Model.tipoVehiculos)
+            @foreach (var genero in Model.generos)
             {
                 <tr>
-                    <td>@tipoVehiculo.Id</td>
-                    <td>@tipoVehiculo.Descripcion</td>
+                    <td>@genero.Id</td>
+                    <td>@genero.Descripcion</td>
                     <td>
-                         <a class="btn btn-primary table-btn" asp-page="./EditarTipoVehiculo" asp-route-Id="@tipoVehiculo.Id">
+                         <a class="btn btn-primary table-btn" asp-page="./EditarGenero" asp-route-Id="@genero.Id">
                             <i class="fas fa-addrees-book fa-lg" aria-hidden="true">Editar</i>
                         </a>
 

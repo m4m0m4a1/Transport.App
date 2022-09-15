@@ -47,12 +47,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb0lkZW50aWZpY2FjaW9uXG1lbnVUaXBvSWRlbnRpZmljYWNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/menuUsuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xtZW51VXN1YXJpby5jc2h0bWw=
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/Genero/CrearGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xHZW5lcm9cQ3JlYXJHZW5lcm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/persona.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xwZXJzb25hLmNzaHRtbA==
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/Genero/ListarGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xHZW5lcm9cTGlzdGFyR2VuZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/MenuUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xNZW51VXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/NivelEstudio/ListarNivelEstudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xOaXZlbEVzdHVkaW9cTGlzdGFyTml2ZWxFc3R1ZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/Rol/ListarRol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xSb2xcTGlzdGFyUm9sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/TipoIdentificacion/ListarTipoIdentificacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xUaXBvSWRlbnRpZmljYWNpb25cTGlzdGFyVGlwb0lkZW50aWZpY2FjaW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/CrearTipoVehiculo.cshtml]

@@ -22,6 +22,9 @@ public class RepositorioSeguro : IRepositorioSeguro
         _appContext = appContext;
     }
 
+    public RepositorioSeguro()
+    {
+    }
 
     Seguro IRepositorioSeguro.AddSeguro(Seguro Seguro)
     {

@@ -22,6 +22,9 @@ public class RepositorioNivelEstudio : IRepositorioNivelEstudio
         _appContext = appContext;
     }
 
+    public RepositorioNivelEstudio()
+    {
+    }
 
     NivelEstudio IRepositorioNivelEstudio.AddNivelEstudio(NivelEstudio NivelEstudio)
     {

@@ -22,6 +22,9 @@ public class RepositorioRevision : IRepositorioRevision
         _appContext = appContext;
     }
 
+    public RepositorioRevision()
+    {
+    }
 
     Revision IRepositorioRevision.AddRevision(Revision Revision)
     {

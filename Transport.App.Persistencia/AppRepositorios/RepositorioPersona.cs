@@ -22,6 +22,9 @@ public class RepositorioPersona : IRepositorioPersona
         _appContext = appContext;
     }
 
+    public RepositorioPersona()
+    {
+    }
 
     Persona IRepositorioPersona.AddPersona(Persona Persona)
     {

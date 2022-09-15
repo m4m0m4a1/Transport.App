@@ -22,6 +22,9 @@ public class RepositorioTipoIdentificacion : IRepositorioTipoIdentificacion
         _appContext = appContext;
     }
 
+    public RepositorioTipoIdentificacion()
+    {
+    }
 
     TipoIdentificacion IRepositorioTipoIdentificacion.AddTipoIdentificacion(TipoIdentificacion TipoIdentificacion)
     {
