@@ -9,7 +9,6 @@ namespace Transport.App.Frontend.Pages
     {
         private readonly IRepositorioGenero _repoGenero = new RepositorioGenero( new Persistencia.AppRepositorios.AppContext() );
         public IEnumerable <Genero> generos {get; set;}
-        
         public void OnGet()
         {
             generos = _repoGenero.GetAllGenero();

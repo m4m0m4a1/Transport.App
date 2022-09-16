@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using Transport.App.Dominio.Entidades;
 
-
 namespace Transport.App.Persistencia.AppRepositorios;
 
 public interface IRepositorioRol

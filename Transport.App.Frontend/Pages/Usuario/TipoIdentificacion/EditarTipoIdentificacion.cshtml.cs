@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Transport.App.Frontend.Pages
 {
-    public class menuNivelEstudioModel : PageModel
+    public class EditarTipoIdentificacionModel : PageModel
     {
         public void OnGet()
         {

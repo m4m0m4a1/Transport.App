@@ -1,14 +1,14 @@
 ﻿@page
-@model Transport.App.Frontend.Pages.ListarTipoIdentificacionModel
+@model Transport.App.Frontend.Pages.ListarPersonaModel
 @{
 }
 <div class="container">
     <div class="row">
         <div class="col-9">
-            <h2 class="text-info">Lista de Tipos de Identificacion</h2>
+            <h2 class="text-info">Lista de Usuarios</h2>
         </div>
         <div class="col-3">
-            <a class="btn btn-secundary" asp-page="/Usuario/TipoIdentificacion/CrearTipoIdentificacion">Crear Nuevo Tipo Identificacion</a>
+            <a class="btn btn-secundary" asp-page="/Usuario/CrearPersona">Crear Nuevo Usuario</a>
         </div>
     </div>
     <br />
@@ -17,17 +17,23 @@
         <thead>
             <tr>
                 <th>ID</th>
-                <th>DESCRIPCION</th>
+                <th>TIPO DOCUMENTO</th>
+                <th>NOMBRE</th>
+                <th>APELLIDO</th>
+                <th>ROL</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var tipoIdentificacion in Model.tipoIdentificaciones)
+            @foreach (var persona in Model.personas)
             {
                 <tr>
-                    <td>@tipoIdentificacion.Id</td>
-                    <td>@tipoIdentificacion.Descripcion</td>
+                    <td>@persona.Id</td>
+                    <td>@persona.FkTipoDocumento</td>
+                    <td>@persona.Nombre</td>
+                    <td>@persona.Apellido</td>
+                    <td>@persona.FkRol</td>
                     <td>
-                         <a class="btn btn-primary table-btn" asp-page="./EditarTipoIdentificacion" asp-route-Id="@tipoIdentificacion.Id">
+                         <a class="btn btn-primary table-btn" asp-page="./EditarPersona" asp-route-Id="@persona.Id">
                             <i class="fas fa-addrees-book fa-lg" aria-hidden="true">Editar</i>
                         </a>
 

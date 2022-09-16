@@ -1,0 +1,99 @@
+﻿@page
+@model Transport.App.Frontend.Pages.CrearPersonaModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <div class="container">
+        <form action="post">
+            <div class="form-group">
+                <label for="tipoIdentificacion">Tipo Identificacion</label>
+                <select class="form-control" id="lstTipoIdentificacion">
+                    @foreach (var tipoIdentificacion in Model.tipoIdentificaciones)
+                    {
+                        <option asp-for="personaEnviar.FkTipoDocumento">@tipoIdentificacion.Descripcion</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="nombre">Nombre</label>
+                <input asp-for="personaEnviar.Nombre" type="text" class="form-control" id="txtNombre" placeholder="Enter Nombres">
+            </div>
+            <div class="form-group">
+                <label for="apellido">Apellido</label>
+                <input asp-for="personaEnviar.Apellido"  type="text" class="form-control" id="txtApellido" placeholder="Enter Apellidos">
+            </div>
+            <div class="form-group">
+                <label for="apellido">Genero</label>
+                <select class="form-control">
+                    @foreach (var genero in Model.generos)
+                    {
+                        <option asp-for="personaEnviar.FkGenero">@genero.Descripcion</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Rol</label>
+                <select class="form-control">
+                    @foreach (var rol in Model.roles)
+                    {
+                        <option asp-for="personaEnviar.FkRol">@rol.Descripcion</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Nivel de Estudios</label>
+                <select class="form-control">
+                    @foreach (var nivelEstudio in Model.nivelEstudios)
+                    {
+                        <option asp-for="personaEnviar.FkNivelEstudios">@nivelEstudio.Descripcion</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Fecha de Nacimiento</label>
+                <input asp-for="personaEnviar.FechaNacimiento" type="date" class="form-control" id="txtFechaNacimiento" placeholder="Enter Fecha de Nacimiento">
+            </div>
+            <div class="form-group">
+                <label for="telefono">Numero de Telefono</label>
+                <input asp-for="personaEnviar.Telefono" type="text" class="form-control" id="txtTelefono" placeholder="Enter Telefono">
+            </div>
+            <div class="form-group">
+                <label for="telefono">Correo</label>
+                <input asp-for="personaEnviar.Correo" type="text" class="form-control" id="txtCorreo" placeholder="Enter Correo">
+            </div>
+            <div class="form-group">
+                <label for="telefono">Direccion</label>
+                <input asp-for="personaEnviar.Direccion" type="text" class="form-control" id="txtDireccion" placeholder="Enter Direccion">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" id="btnEnviar">Submit</button>
+            </div>
+        </form>
+        
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Transport.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>
