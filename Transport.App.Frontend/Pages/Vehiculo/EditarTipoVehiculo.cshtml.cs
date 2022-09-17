@@ -9,22 +9,37 @@ namespace Transport.App.Frontend.Pages
     {
         private readonly IRepositorioTipoVehiculo _repoTipoVehiculo = new RepositorioTipoVehiculo( new Persistencia.AppRepositorios.AppContext() );
         public TipoVehiculo tipoVehiculosEdit {get; set;}
-        public IActionResult OnGet(int Id)
+        public IActionResult OnGet(int? Id)
         {
-            tipoVehiculosEdit = _repoTipoVehiculo.GetTipoVehiculo(Id);
+            if( Id.HasValue )
+            {
+                tipoVehiculosEdit = _repoTipoVehiculo.GetTipoVehiculo(Id.Value);
+            }else{
+                tipoVehiculosEdit = new TipoVehiculo();
+            }
+
+            if(tipoVehiculosEdit == null)
+            {
+                return RedirectToPage("./NotFound");
+            }else
             return Page();
         }
 
-        public void OnPost()
+        public IActionResult OnPost()
         {
-            /*
-            if( !ModelState.IsValid )
+
+            if(ModelState.IsValid)
             {
                 return Page();
             }
-            */
-            tipoVehiculosEdit = _repoTipoVehiculo.UpdateTipoVehiculo(tipoVehiculosEdit);
-            //return Redirect("./ListarTipoVehiculo");
+            if(tipoVehiculosEdit.Id>0)
+            {
+                tipoVehiculosEdit = _repoTipoVehiculo.UpdateTipoVehiculo(tipoVehiculosEdit);
+            }else{
+                _repoTipoVehiculo.AddTipoVehiculo(tipoVehiculosEdit);
+            }
+            return RedirectToPage("/Vehiculo/ListarTipoVehiculo");
+            
         }
     }
 }
