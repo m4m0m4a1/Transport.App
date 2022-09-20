@@ -13,5 +13,11 @@ namespace Transport.App.Frontend.Pages
         {
             nivelEstudios = _repoNivelEstudio.GetAllNivelEstudio();
         }
+
+        public IActionResult OnPost(int Id)
+        {
+            _repoNivelEstudio.DeleteNivelEstudio(Id);
+            return RedirectToAction("Get");
+        }
     }
 }

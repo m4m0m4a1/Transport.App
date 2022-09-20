@@ -43,8 +43,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xHZW5lcm9cQ3JlYXJHZW5lcm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/Genero/EditarCrearGenero.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xHZW5lcm9cRWRpdGFyQ3JlYXJHZW5lcm8uY3NodG1s
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/Genero/EditarGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xHZW5lcm9cRWRpdGFyR2VuZXJvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Usuario/Genero/ListarGenero.cshtml]

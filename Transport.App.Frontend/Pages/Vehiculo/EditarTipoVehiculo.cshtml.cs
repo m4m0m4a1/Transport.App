@@ -8,6 +8,7 @@ namespace Transport.App.Frontend.Pages
     public class EditarTipoVehiculoModel : PageModel
     {
         private readonly IRepositorioTipoVehiculo _repoTipoVehiculo = new RepositorioTipoVehiculo( new Persistencia.AppRepositorios.AppContext() );
+        [BindProperty]
         public TipoVehiculo tipoVehiculosEdit {get; set;}
         public IActionResult OnGet(int? Id)
         {
@@ -27,7 +28,8 @@ namespace Transport.App.Frontend.Pages
 
         public IActionResult OnPost()
         {
-
+            tipoVehiculosEdit = _repoTipoVehiculo.UpdateTipoVehiculo(tipoVehiculosEdit);
+            /*
             if(ModelState.IsValid)
             {
                 return Page();
@@ -38,6 +40,7 @@ namespace Transport.App.Frontend.Pages
             }else{
                 _repoTipoVehiculo.AddTipoVehiculo(tipoVehiculosEdit);
             }
+            */
             return RedirectToPage("/Vehiculo/ListarTipoVehiculo");
             
         }

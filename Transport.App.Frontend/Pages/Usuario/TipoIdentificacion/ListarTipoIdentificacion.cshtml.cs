@@ -13,5 +13,11 @@ namespace Transport.App.Frontend.Pages
         {
             tipoIdentificaciones = _repoTipoIdentificacion.GetAllTipoIdentificacion();
         }
+
+        public IActionResult OnPost(int Id)
+        {
+            _repoTipoIdentificacion.DeleteTipoIdentificacion(Id);
+            return RedirectToAction("Get");
+        }
     }
 }

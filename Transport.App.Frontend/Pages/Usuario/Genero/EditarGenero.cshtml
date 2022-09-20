@@ -1,5 +1,5 @@
 ﻿@page
-@model Transport.App.Frontend.Pages.EditarNivelEstudioModel
+@model Transport.App.Frontend.Pages.EditarGeneroModel
 @{
 }
 <!DOCTYPE html>
@@ -15,11 +15,11 @@
 <body>
     <div class="container">
         <form method="post">
-            <input type="hidden" asp-for="EditNivelEstudio.Id">
+            <input type="hidden" asp-for="EditGenero.Id">
             <div class="form-group">
-                <label asp-for="EditNivelEstudio.Descripcion">Descripcion</label>
-                <input asp-for="EditNivelEstudio.Descripcion" class="form-control" placeholder="Enter ">
-                <span class="text-danger" asp-validation-for="EditNivelEstudio.Descripcion"></span>
+                <label asp-for="EditGenero.Descripcion">Descripcion</label>
+                <input asp-for="EditGenero.Descripcion" class="form-control" placeholder="Enter ">
+                <span class="text-danger" asp-validation-for="EditGenero.Descripcion"></span>
             </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>

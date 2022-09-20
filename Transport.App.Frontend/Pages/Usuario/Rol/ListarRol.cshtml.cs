@@ -13,5 +13,11 @@ namespace Transport.App.Frontend.Pages
         {
             roles = _repoRol.GetAllRol();
         }
+
+        public IActionResult OnPost(int Id)
+        {
+            _repoRol.DeleteRol(Id);
+            return RedirectToAction("Get");
+        }
     }
 }

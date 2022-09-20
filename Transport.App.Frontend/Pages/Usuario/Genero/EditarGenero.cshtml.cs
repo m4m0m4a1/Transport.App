@@ -5,22 +5,22 @@ using Transport.App.Persistencia.AppRepositorios;
 
 namespace Transport.App.Frontend.Pages
 {
-    public class EditarRolModel : PageModel
+    public class EditarGeneroModel : PageModel
     {
-        private readonly IRepositorioRol _repoRol = new RepositorioRol(new Persistencia.AppRepositorios.AppContext());
+        private readonly IRepositorioGenero _repoGenero = new RepositorioGenero( new Persistencia.AppRepositorios.AppContext() );
         [BindProperty]
-        public Rol? EditRol { get; set; }
+        public Genero? EditGenero {get; set;}
         public IActionResult OnGet(int? Id)
         {
             if (Id.HasValue)
             {
-                EditRol = _repoRol.GetRol(Id.Value);
+                EditGenero = _repoGenero.GetGenero(Id.Value);
             }
             else
             {
-                EditRol = new Rol();
+                EditGenero = new Genero();
             }
-            if (EditRol == null)
+            if (EditGenero == null)
             {
                 return RedirectToPage("./NotFound");
             }
@@ -34,8 +34,8 @@ namespace Transport.App.Frontend.Pages
             {
                 return Page();
             }
-            _repoRol.UpdateRol(EditRol);
-            return RedirectToPage("./ListarRol");
+            _repoGenero.UpdateGenero(EditGenero);
+            return RedirectToPage("./ListarGenero");
         }
     }
 }

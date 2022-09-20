@@ -13,5 +13,11 @@ namespace Transport.App.Frontend.Pages
         {
             generos = _repoGenero.GetAllGenero();
         }
+
+        public IActionResult OnPost(int Id)
+        {
+            _repoGenero.DeleteGenero(Id);
+            return RedirectToAction("Get");
+        }
     }
 }
