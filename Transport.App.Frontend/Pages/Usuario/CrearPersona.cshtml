@@ -13,70 +13,83 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
 </head>
-
 <body>
-
     <div class="container">
-        <form action="post">
+        <form method="post">
             <div class="form-group">
                 <label for="tipoIdentificacion">Tipo Identificacion</label>
-                <select class="form-control" id="lstTipoIdentificacion">
+                <select class="form-control" asp-for="NewPersona.FkTipoDocumento">
                     @foreach (var tipoIdentificacion in Model.tipoIdentificaciones)
                     {
-                        <option asp-for="personaEnviar.FkTipoDocumento">@tipoIdentificacion.Descripcion</option>
+                        <option value="@tipoIdentificacion.Id">@tipoIdentificacion.Descripcion</option>
                     }
                 </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkTipoDocumento"></span>
+            </div>
+            <div class="form-group">
+                <label for="nombre">Identificacion</label>
+                <input asp-for="NewPersona.Identificacion" type="text" class="form-control" id="txtIdentificacion" placeholder="Enter Identificacion">
+                <span class="text-danger" asp-validation-for="NewPersona.Identificacion"></span>
             </div>
             <div class="form-group">
                 <label for="nombre">Nombre</label>
-                <input asp-for="personaEnviar.Nombre" type="text" class="form-control" id="txtNombre" placeholder="Enter Nombres">
+                <input asp-for="NewPersona.Nombre" type="text" class="form-control" id="txtNombre" placeholder="Enter Nombres">
+                <span class="text-danger" asp-validation-for="NewPersona.Nombre"></span>
             </div>
             <div class="form-group">
                 <label for="apellido">Apellido</label>
-                <input asp-for="personaEnviar.Apellido"  type="text" class="form-control" id="txtApellido" placeholder="Enter Apellidos">
+                <input asp-for="NewPersona.Apellido"  type="text" class="form-control" id="txtApellido" placeholder="Enter Apellidos">
+                <span class="text-danger" asp-validation-for="NewPersona.Apellido"></span>
             </div>
             <div class="form-group">
                 <label for="apellido">Genero</label>
-                <select class="form-control">
+                <select class="form-control" asp-for="NewPersona.FkGenero">
                     @foreach (var genero in Model.generos)
                     {
-                        <option asp-for="personaEnviar.FkGenero">@genero.Descripcion</option>
+                        <option value="@genero.Id">@genero.Descripcion</option>
                     }
                 </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkGenero"></span>
             </div>
             <div class="form-group">
                 <label for="apellido">Rol</label>
-                <select class="form-control">
+                <select class="form-control" asp-for="NewPersona.FkRol">
                     @foreach (var rol in Model.roles)
                     {
-                        <option asp-for="personaEnviar.FkRol">@rol.Descripcion</option>
+                        <option value="@rol.Id">@rol.Descripcion</option>
                     }
                 </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkRol"></span>
             </div>
             <div class="form-group">
                 <label for="apellido">Nivel de Estudios</label>
-                <select class="form-control">
+                <select class="form-control" asp-for="NewPersona.FkNivelEstudios">
                     @foreach (var nivelEstudio in Model.nivelEstudios)
                     {
-                        <option asp-for="personaEnviar.FkNivelEstudios">@nivelEstudio.Descripcion</option>
+                        <option value="@nivelEstudio.Id">@nivelEstudio.Descripcion</option>
                     }
                 </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkNivelEstudios"></span>
             </div>
             <div class="form-group">
                 <label for="apellido">Fecha de Nacimiento</label>
-                <input asp-for="personaEnviar.FechaNacimiento" type="date" class="form-control" id="txtFechaNacimiento" placeholder="Enter Fecha de Nacimiento">
+                <input asp-for="NewPersona.FechaNacimiento" type="date" class="form-control" id="txtFechaNacimiento" placeholder="Enter Fecha de Nacimiento">
+                <span class="text-danger" asp-validation-for="NewPersona.FechaNacimiento"></span>
             </div>
             <div class="form-group">
                 <label for="telefono">Numero de Telefono</label>
-                <input asp-for="personaEnviar.Telefono" type="text" class="form-control" id="txtTelefono" placeholder="Enter Telefono">
+                <input asp-for="NewPersona.Telefono" type="text" class="form-control" id="txtTelefono" placeholder="Enter Telefono">
+                <span class="text-danger" asp-validation-for="NewPersona.Telefono"></span>
             </div>
             <div class="form-group">
                 <label for="telefono">Correo</label>
-                <input asp-for="personaEnviar.Correo" type="text" class="form-control" id="txtCorreo" placeholder="Enter Correo">
+                <input asp-for="NewPersona.Correo" type="text" class="form-control" id="txtCorreo" placeholder="Enter Correo">
+                <span class="text-danger" asp-validation-for="NewPersona.Correo"></span>
             </div>
             <div class="form-group">
                 <label for="telefono">Direccion</label>
-                <input asp-for="personaEnviar.Direccion" type="text" class="form-control" id="txtDireccion" placeholder="Enter Direccion">
+                <input asp-for="NewPersona.Direccion" type="text" class="form-control" id="txtDireccion" placeholder="Enter Direccion">
+                <span class="text-danger" asp-validation-for="NewPersona.Direccion"></span>
             </div>
             <div class="form-group">
                 <button type="submit" class="btn btn-primary" id="btnEnviar">Submit</button>

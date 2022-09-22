@@ -43,7 +43,6 @@ public class RepositorioPersona : IRepositorioPersona
         _appContext.SaveChanges();
     }
 
-
     IEnumerable<Persona> IRepositorioPersona.GetAllPersona()
     {
 
@@ -64,6 +63,7 @@ public class RepositorioPersona : IRepositorioPersona
         {
 
             PersonaEncontrada.FkTipoDocumento = Persona.FkTipoDocumento;
+            PersonaEncontrada.Identificacion = Persona.Identificacion;
             PersonaEncontrada.Nombre = Persona.Nombre;
             PersonaEncontrada.Apellido = Persona.Apellido;
             PersonaEncontrada.FkGenero = Persona.FkGenero;

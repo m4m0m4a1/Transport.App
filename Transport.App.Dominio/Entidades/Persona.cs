@@ -4,6 +4,7 @@ public class Persona
 {
     public int Id { get; set; }
     public int FkTipoDocumento { get; set; }
+    public int Identificacion { get; set; }
     public string Nombre { get; set; }
     public string Apellido { get; set; }
     public int FkGenero { get; set; }

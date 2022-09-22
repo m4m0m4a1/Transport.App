@@ -53,7 +53,6 @@ public class RepositorioTipoIdentificacion : IRepositorioTipoIdentificacion
 
     TipoIdentificacion IRepositorioTipoIdentificacion.GetTipoIdentificacion(int IdTipoIdentificacion)
     {
-
         return _appContext.TipoIdentificacion.FirstOrDefault(t => t.Id == IdTipoIdentificacion);
     }
 

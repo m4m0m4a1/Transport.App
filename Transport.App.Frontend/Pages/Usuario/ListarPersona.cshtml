@@ -13,34 +13,46 @@
     </div>
     <br />
     <br />
-    <table id="tblGenero" class="table table-striped table-bordered" style="width: 100%">
+    <table>
         <thead>
             <tr>
                 <th>ID</th>
                 <th>TIPO DOCUMENTO</th>
+                <th>IDENTIFICACION</th>
                 <th>NOMBRE</th>
                 <th>APELLIDO</th>
+                <th>GENERO</th>
+                <th>NIVEL ESTUDIOS</th>
                 <th>ROL</th>
+                <th scope="col"></th>
             </tr>
         </thead>
         <tbody>
             @foreach (var persona in Model.personas)
             {
+                var tipoIdentificacion = Model._repoTipoIdentificacion.GetTipoIdentificacion(persona.FkTipoDocumento);
+                var genero = Model._repoGenero.GetGenero(persona.FkGenero);
+                var nivelEstudio = Model._repoNivelEstudio.GetNivelEstudio(persona.FkNivelEstudios);
+                var rol = Model._repoRol.GetRol(persona.FkRol);
+
                 <tr>
                     <td>@persona.Id</td>
-                    <td>@persona.FkTipoDocumento</td>
+                    <td>@tipoIdentificacion.Descripcion</td>
+                    <td>@persona.Identificacion</td>
                     <td>@persona.Nombre</td>
                     <td>@persona.Apellido</td>
-                    <td>@persona.FkRol</td>
+                    <td>@genero.Descripcion</td>
+                    <td>@nivelEstudio.Descripcion</td>
+                    <td>@rol.Descripcion</td>
                     <td>
                          <a class="btn btn-primary table-btn" asp-page="./EditarPersona" asp-route-Id="@persona.Id">
                             <i class="fas fa-addrees-book fa-lg" aria-hidden="true">Editar</i>
                         </a>
-
-                        <a class="btn btn-primary table-btn" asp-page="./#">
-                            <i class="fas fa-info-circle">Eliminar</i>
-                        </a>
-
+                    </td>
+                    <td>
+                        <form method="post" asp-page-handler="Delete" asp-route-id="@persona.Id">
+                            <button class="btn btn-danger">Eliminar</button>
+                        </form>
                     </td>
                 </tr>
             }

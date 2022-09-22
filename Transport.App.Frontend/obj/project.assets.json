@@ -2011,19 +2011,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jorge.bermudez\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
       "projectName": "Transport.App.Frontend",
-      "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\Transport.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2035,11 +2035,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
+            "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
             },
-            "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj"
+            "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj"
             }
           }
         }
@@ -2080,7 +2080,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
