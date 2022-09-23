@@ -13,5 +13,10 @@ namespace Transport.App.Frontend.Pages
         {
             tipoVehiculos = _repoTipoVehiculo.GetAllTipoVehiculo();
         }
+        public IActionResult OnPost(int Id)
+        {
+            _repoTipoVehiculo.DeleteTipoVehiculo(Id);
+            return RedirectToAction("Get");
+        }
     }
 }

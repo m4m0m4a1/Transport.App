@@ -95,24 +95,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xUaXBvSWRlbnRpZmljYWNpb25cTGlzdGFyVGlwb0lkZW50aWZpY2FjaW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/CrearVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cQ3JlYXJWZWhpY3Vsby5jc2h0bWw=
+[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculos/CrearVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9zXENyZWFyVmVoaWN1bG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/MenuVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cTWVudVZlaGljdWxvLmNzaHRtbA==
+[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculos/ListarVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9zXExpc3RhclZlaGljdWxvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/TipoVehiculo/CrearTipoVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cVGlwb1ZlaGljdWxvXENyZWFyVGlwb1ZlaGljdWxvLmNzaHRtbA==
+[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculos/MenuVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9zXE1lbnVWZWhpY3Vsby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/TipoVehiculo/EditarTipoVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cVGlwb1ZlaGljdWxvXEVkaXRhclRpcG9WZWhpY3Vsby5jc2h0bWw=
+[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculos/TipoVehiculo/CrearTipoVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9zXFRpcG9WZWhpY3Vsb1xDcmVhclRpcG9WZWhpY3Vsby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculo/TipoVehiculo/ListarTipoVehiculo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9cVGlwb1ZlaGljdWxvXExpc3RhclRpcG9WZWhpY3Vsby5jc2h0bWw=
+[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculos/TipoVehiculo/EditarTipoVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9zXFRpcG9WZWhpY3Vsb1xFZGl0YXJUaXBvVmVoaWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Vehiculos/TipoVehiculo/ListarTipoVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWN1bG9zXFRpcG9WZWhpY3Vsb1xMaXN0YXJUaXBvVmVoaWN1bG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USUARIO/OneDrive - Universidad Tecnológica de Bolívar/Documentos/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/_ViewImports.cshtml]

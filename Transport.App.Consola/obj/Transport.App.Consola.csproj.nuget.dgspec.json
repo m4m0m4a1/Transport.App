@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj": {}
+    "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj": {
+    "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
         "projectName": "Transport.App.Consola",
-        "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Consola\\obj\\",
+        "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
+              "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
               },
-              "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj"
+              "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj"
               }
             }
           }
@@ -86,17 +86,17 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
+    "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
         "projectName": "Transport.App.Dominio",
-        "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -139,17 +139,17 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
+    "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
         "projectName": "Transport.App.Persistencia",
-        "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -161,8 +161,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
+              "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
               }
             }
           }

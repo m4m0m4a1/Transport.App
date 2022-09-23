@@ -14,15 +14,16 @@
 </head>
 <body>
     <div class="container">
-        <form>
+        <form method="post">
             <div class="form-group">
-                <label for="exampleInputEmail1">Descripcion</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                    placeholder="Enter ">
-                <small id="emailHelp" class="form-text text-muted">Descripciones Adicionales .</small>
+                <label asp-for="NewTipoVehiculo.Descripcion">Descripcion</label>
+                <input asp-for="NewTipoVehiculo.Descripcion" class="form-control" placeholder="Enter ">
+                <span class="text-danger" asp-validation-for="NewTipoVehiculo.Descripcion"></span>
             </div>
 
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
         </form>
     </div>
 </body>

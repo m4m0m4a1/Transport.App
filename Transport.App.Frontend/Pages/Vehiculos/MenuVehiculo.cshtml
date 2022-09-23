@@ -1,5 +1,5 @@
 ﻿@page
-@model Transport.App.Frontend.Pages.MenuVehiculoModel
+@model Transport.App.Frontend.Pages.MenuVehiculo
 @{
 }
 <!DOCTYPE html>
@@ -12,15 +12,16 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
 </head>
-<body>        
+<body>
+        
     <div class="container">
         <div>
             <ul>
                 <li>
-                    <a asp-area="" asp-page="/Vehiculo/TipoVehiculo/ListarTipoVehiculo">Crear Tipo Vehiculo</a>
+                    <a asp-area="" asp-page="/Vehiculos/TipoVehiculo/ListarTipoVehiculo">Crear Tipo Vehiculo</a>
                 </li>
                 <li>
-                    <a asp-area="" asp-page="/Vehiculo/ListarVehiculo">Crear Vehiculo</a>
+                    <a asp-area="" asp-page="/Vehiculos/ListarVehiculo">Crear Vehiculo</a>
                 </li>
             </ul>
         </div>

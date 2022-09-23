@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X5/mD9922MXHgwoSw0ww03zxoPjr2ZitTg8RJrP7WZ0=",
+  "Hash": "LvXfvXIt+SbTKeXiaOtxMx/2mR3xToFc9hZI6gWuLyU=",
   "Source": "Transport.App.Frontend",
   "BasePath": "_content/Transport.App.Frontend",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\css\\styles.css",
+      "SourceId": "Transport.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/Transport.App.Frontend",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\favicon.ico",
       "SourceId": "Transport.App.Frontend",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\js\\scripts.js",
+      "SourceId": "Transport.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/Transport.App.Frontend",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\js\\site.js",

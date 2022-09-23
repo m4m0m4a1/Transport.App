@@ -14,14 +14,18 @@
 </head>
 <body>
     <div class="container">
-        <form method="post">
-            <div class="form-group">
-                <label asp-for="NewGenero.Descripcion">Descripcion</label>
-                <input asp-for="NewGenero.Descripcion" class="form-control" placeholder="Enter ">
-                <span class="text-danger" asp-validation-for="NewGenero.Descripcion"></span>
-            </div>
+        <form class="form-horizontal" method="post">
+            
+                <div class="form-group">
+                    <label asp-for="NewGenero.Descripcion">Descripcion</label>
+                    <input asp-for="NewGenero.Descripcion" class="form-control" placeholder="Enter ">
+                    <span class="text-danger" asp-validation-for="NewGenero.Descripcion"></span>
+                </div>
 
-            <button type="submit" class="btn btn-primary">Submit</button>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+
         </form>
     </div>
 </body>

@@ -22,8 +22,8 @@ public class AppContext : DbContext
         {
             optionsBuilder
             //.UseSqlServer("Data source = (localdb)\\MSSQLLocalDB; Initial Catalog =Transport.Data");
-            //.UseSqlServer("Data Source = JORGEBERMUDEZ\\SQLEXPRESS; Initial Catalog = Transport.Data ;persist security info=True;user id=sa;password=1234;multipleactiveresultsets=True;");
-            .UseSqlServer("Data Source = DESKTOP-QV0AIMJ\\SQLEXPRESS; Initial Catalog = Transport.Data ;persist security info=True;user id=sa;password=1234;multipleactiveresultsets=True;");
+            .UseSqlServer("Data Source = JORGEBERMUDEZ\\SQLEXPRESS; Initial Catalog = Transport.Data ;persist security info=True;user id=sa;password=1234;multipleactiveresultsets=True;");
+            //.UseSqlServer("Data Source = DESKTOP-QV0AIMJ\\SQLEXPRESS; Initial Catalog = Transport.Data ;persist security info=True;user id=sa;password=1234;multipleactiveresultsets=True;");
         }
     }
 }
