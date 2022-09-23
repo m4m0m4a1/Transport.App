@@ -1,0 +1,55 @@
+﻿@page
+@model Transport.App.Frontend.Pages.ListarSeguroModel
+@{
+}
+<div class="container">
+    <div class="row">
+        <div class="col-9">
+            <h2 class="text-info">Lista de Seguros</h2>
+        </div>
+        <div class="col-3">
+            <a button type="button" class="btn btn-success" asp-page="/Seguros/CrearSeguro">Crear Nuevo Seguro</a>
+            
+        </div>
+    </div>
+    <br />
+    <br />
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>TIPO DE SEGURO</th>
+                <th>TIPO DE VEHICULO</th>
+                <th>FECHA DE COMPRA</th>
+                <th>FECHA DE VENCIMIENTO</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var seg in Model.seguros)
+            {
+                var vehiculo = Model._repoVehiculo.GetVehiculo(seg.FkVehiculo);
+                var tipoSeguro = Model._repoTipoSeguro.GetTipoSeguro(seg.FkTipoSeguro);
+                <tr>
+                    <td>@seg.Id</td>
+                    <td>@vehiculo.Placa @vehiculo.Marca</td>
+                    <td>@tipoSeguro.Descripcion</td>
+                    <td>@seg.FechaCompra</td>
+                    <td>@seg.FechaVencimiento</td>
+                    <td>
+                         <a class="btn btn-primary table-btn" asp-page="./EditarSeguro" asp-route-Id="@seg.Id">
+                            <i class="fas fa-addrees-book fa-lg" aria-hidden="true">Editar</i>
+                        </a>
+
+                    </td>
+                    <td>
+                        <form method="post" asp-page-handler="Delete" asp-route-id="@seg.Id">
+                            <button class="btn btn-danger">Eliminar</button>
+                        </form>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
