@@ -1,0 +1,112 @@
+﻿@page
+@model Transport.App.Frontend.Pages.CrearPersonaModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <form method="post">
+            <div class="form-group">
+                <label for="tipoIdentificacion">Tipo Identificacion</label>
+                <select asp-for="NewPersona.FkTipoDocumento" class="form-select" aria-label="Default select example">
+                    @foreach (var tipoIdentificacion in Model.tipoIdentificaciones)
+                    {
+                        <option value="@tipoIdentificacion.Id">@tipoIdentificacion.Descripcion</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkTipoDocumento"></span>
+            </div>
+            <div class="form-group">
+                <label for="nombre">Identificacion</label>
+                <input asp-for="NewPersona.Identificacion" type="text" class="form-control" id="txtIdentificacion" placeholder="Enter Identificacion">
+                <span class="text-danger" asp-validation-for="NewPersona.Identificacion"></span>
+            </div>
+            <div class="form-group">
+                <label for="nombre">Nombre</label>
+                <input asp-for="NewPersona.Nombre" type="text" class="form-control" id="txtNombre" placeholder="Enter Nombres">
+                <span class="text-danger" asp-validation-for="NewPersona.Nombre"></span>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Apellido</label>
+                <input asp-for="NewPersona.Apellido"  type="text" class="form-control" id="txtApellido" placeholder="Enter Apellidos">
+                <span class="text-danger" asp-validation-for="NewPersona.Apellido"></span>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Genero</label>
+                <select asp-for="NewPersona.FkGenero" class="form-select" aria-label="Default select example">
+                    @foreach (var genero in Model.generos)
+                    {
+                        <option value="@genero.Id">@genero.Descripcion</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkGenero"></span>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Rol</label>
+                <select asp-for="NewPersona.FkRol" class="form-select" aria-label="Default select example">
+                    @foreach (var rol in Model.roles)
+                    {
+                        <option value="@rol.Id">@rol.Descripcion</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkRol"></span>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Nivel de Estudios</label>
+                <select asp-for="NewPersona.FkNivelEstudios" class="form-select" aria-label="Default select example">
+                    @foreach (var nivelEstudio in Model.nivelEstudios)
+                    {
+                        <option value="@nivelEstudio.Id">@nivelEstudio.Descripcion</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewPersona.FkNivelEstudios"></span>
+            </div>
+            <div class="form-group">
+                <label for="apellido">Fecha de Nacimiento</label>
+                <input asp-for="NewPersona.FechaNacimiento" type="date" class="form-control" id="txtFechaNacimiento" placeholder="Enter Fecha de Nacimiento">
+                <span class="text-danger" asp-validation-for="NewPersona.FechaNacimiento"></span>
+            </div>
+            <div class="form-group">
+                <label for="telefono">Numero de Telefono</label>
+                <input asp-for="NewPersona.Telefono" type="text" class="form-control" id="txtTelefono" placeholder="Enter Telefono">
+                <span class="text-danger" asp-validation-for="NewPersona.Telefono"></span>
+            </div>
+            <div class="form-group">
+                <label for="telefono">Correo</label>
+                <input asp-for="NewPersona.Correo" type="text" class="form-control" id="txtCorreo" placeholder="Enter Correo">
+                <span class="text-danger" asp-validation-for="NewPersona.Correo"></span>
+            </div>
+            <div class="form-group">
+                <label for="telefono">Direccion</label>
+                <input asp-for="NewPersona.Direccion" type="text" class="form-control" id="txtDireccion" placeholder="Enter Direccion">
+                <span class="text-danger" asp-validation-for="NewPersona.Direccion"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" id="btnEnviar">Submit</button>
+            </div>
+        </form>
+        
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Transport.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>

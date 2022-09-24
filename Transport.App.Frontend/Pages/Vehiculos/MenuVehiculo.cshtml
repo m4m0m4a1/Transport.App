@@ -1,0 +1,51 @@
+﻿@page
+@model Transport.App.Frontend.Pages.MenuVehiculo
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+        
+    <div class="container">
+        <div class="row">
+        <div class="col-9">
+            <h2 class="text-info">Menu de Vehiculos</h2>
+        </div>
+    <br />
+    <br />
+    <table class="table table-striped">
+    
+        <div>
+            <ul>
+                <li>
+                    <a asp-area="" asp-page="/Vehiculos/TipoVehiculo/ListarTipoVehiculo">Crear Tipo Vehiculo</a>
+                </li>
+                <li>
+                    <a asp-area="" asp-page="/Vehiculos/ListarVehiculo">Crear Vehiculo</a>
+
+                </li>
+                
+            </ul>
+        </div>
+    </table>
+
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Transport.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

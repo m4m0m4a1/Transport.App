@@ -1,0 +1,29 @@
+﻿@page
+@model Transport.App.Frontend.Pages.EditarTipoIdentificacionModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <form method="post">
+            <input type="hidden" asp-for="EditTipoIdentificacion.Id">
+            <div class="form-group">
+                <label asp-for="EditTipoIdentificacion.Descripcion">Descripcion</label>
+                <input asp-for="EditTipoIdentificacion.Descripcion" class="form-control" placeholder="Enter ">
+                <span class="text-danger" asp-validation-for="EditTipoIdentificacion.Descripcion"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,10 +1,8 @@
 using System.Collections.Generic;
-using Transport.App.Dominio;
+using Transport.App.Dominio.Entidades;
 
 
-namespace Transport.App.Persistencia
-
-{
+namespace Transport.App.Persistencia.AppRepositorios;
 
 public interface IRepositorioRevision
 {
@@ -15,7 +13,5 @@ public interface IRepositorioRevision
     Revision UpdateRevision(Revision Revision);
     void DeleteRevision(int IdRevision);
     Revision GetRevision(int IdRevision);
-
-}
 
 }

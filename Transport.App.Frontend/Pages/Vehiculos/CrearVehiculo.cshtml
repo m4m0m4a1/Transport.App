@@ -1,0 +1,98 @@
+﻿@page
+@model Transport.App.Frontend.Pages.CrearVehiculoModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <form method="post">
+             <div class="form-group">
+                <label for="tipoVehiculo">Tipo Vehiculo</label>
+                <select class="form-control" asp-for="NewVehiculo.FkTipoVehiculo">
+                    @foreach (var tipoVehiculo in Model.tipoVehiculos)
+                    {
+                        <option value="@tipoVehiculo.Id">@tipoVehiculo.Descripcion</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewVehiculo.FkTipoVehiculo"></span>
+             </div>
+            
+             <div class="form-group">
+                <label for="persona">Persona</label>
+                <select class="form-control" asp-for="NewVehiculo.FkPersona">
+                    @foreach (var persona in Model.personas)
+                    {
+                        var rol = persona.FkRol;
+                        if(rol == 2)
+                        {
+                            <option value="@persona.Id">@persona.Nombre @persona.Apellido</option>   
+                        }
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewVehiculo.FkPersona"></span>
+            </div> 
+            <div class="form-group">
+                <label for="placa">Placa</label>
+                <input asp-for="NewVehiculo.Placa" type="text" class="form-control" id="txtPlaca" placeholder="Enter Placa">
+                <span class="text-danger" asp-validation-for="NewVehiculo.Placa"></span>
+            </div>
+            <div class="form-group">
+                <label for="modelo">Modelo</label>
+                <input asp-for="NewVehiculo.Modelo" type="text" class="form-control" id="txtModelo" placeholder="Enter Modelo">
+                <span class="text-danger" asp-validation-for="NewVehiculo.Modelo"></span>
+            </div>
+            <div class="form-group">
+                <label for="marca">Marca</label>
+                <input asp-for="NewVehiculo.Marca" type="text" class="form-control" id="txtMarca" placeholder="Enter Marca">
+                <span class="text-danger" asp-validation-for="NewVehiculo.Marca"></span>
+            </div>
+            <div class="form-group">
+                <label for="color">Color</label>
+                <input asp-for="NewVehiculo.Color" type="text" class="form-control" id="txtColor" placeholder="Enter Color">
+                <span class="text-danger" asp-validation-for="NewVehiculo.Color"></span>
+            </div>
+            <div class="form-group">
+                <label for="placa">Cilindraje de Motor</label>
+                <input asp-for="NewVehiculo.CilindrajeMotor" type="text" class="form-control" id="txtCilindrajeMotor" placeholder="Enter Cilindraje Motor">
+                <span class="text-danger" asp-validation-for="NewVehiculo.CilindrajeMotor"></span>
+            </div>
+            <div class="form-group">
+                <label for="capacidadPasajeros">Capacidad de Pasajeros</label>
+                <input asp-for="NewVehiculo.CapacidadPasajeros" type="text" class="form-control" id="txtCapacidadPasajeros" placeholder="Enter Capacidad de Pasajeros">
+                <span class="text-danger" asp-validation-for="NewVehiculo.CapacidadPasajeros"></span>
+            </div>
+            <div class="form-group">
+                <label for="pais">pais</label>
+                <input asp-for="NewVehiculo.Pais" type="text" class="form-control" id="txtPais" placeholder="Enter Pais">
+                <span class="text-danger" asp-validation-for="NewVehiculo.Pais"></span>
+            </div>
+            
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" id="btnEnviar">Submit</button>
+            </div>
+        </form>
+        
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Transport.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>

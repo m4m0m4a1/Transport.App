@@ -1,0 +1,106 @@
+﻿@page
+@model Transport.App.Frontend.Pages.CrearRevisionModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <form method="post">
+            <div class="form-group">
+                <label for="vehiculo">Vehiculo</label>
+                <select asp-for="NewRevision.FkVehiculo" class="form-select" aria-label="Default select example">
+                    @foreach (var Vehiculo in Model.vehiculos)
+                    {
+                        <option value="@Vehiculo.Id">@Vehiculo.Placa</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewRevision.FkVehiculo"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="revision">Mecanico</label>
+                <select asp-for="NewRevision.FkMecanico" class="form-select" aria-label="Default select example">
+                    @foreach (var Persona in Model.personas)
+                    {
+                        var rol = Persona.FkRol;
+                        if(rol == 1){
+                            <option value="@Persona.Id">@Persona.Nombre @Persona.Apellido</option>
+                        }
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="NewRevision.FkMecanico"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelAceite">Nivel de Aceite</label>
+                <input asp-for="NewRevision.NivelAceite" type="text" class="form-control" id="txtNivelAceite" placeholder="Enter Nivel Aceite">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelAceite"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelAceite">Fecha Nivel de Aceite</label>
+                <input asp-for="NewRevision.NivelAceite" type="date" class="form-control" id="txtFechaNivelAceite" placeholder="Enter Nivel Aceite">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelAceite"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelFrenos">Nivel de Frenos</label>
+                <input asp-for="NewRevision.NivelFrenos" type="text" class="form-control" id="txtNivelFrenos" placeholder="Enter Nivel Frenos">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelFrenos"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelFrenos">Fecha Nivel de Frenos</label>
+                <input asp-for="NewRevision.NivelFrenos" type="date" class="form-control" id="txtFechaNivelFrenos" placeholder="Enter Nivel Frenos">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelFrenos"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelRefrigerante">Nivel de Refrigerante</label>
+                <input asp-for="NewRevision.NivelRefrigerante" type="text" class="form-control" id="txtNivelRefrigerante" placeholder="Nivel Refrigerante">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelRefrigerante"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelRefrigerante">Fecha Nivel de Refrigerante</label>
+                <input asp-for="NewRevision.NivelRefrigerante" type="date" class="form-control" id="txtFechaNivelRefrigerante" placeholder="Nivel Refrigerante">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelRefrigerante"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelDireccion">Nivel de Direccion</label>
+                <input asp-for="NewRevision.NivelDireccion" type="text" class="form-control" id="txtNivelDireccion" placeholder="Enter Nivel Direccion">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelDireccion"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelDireccion">Fecha Nivel de Direccion</label>
+                <input asp-for="NewRevision.NivelDireccion" type="date" class="form-control" id="txtFechaNivelDireccion" placeholder="Enter Nivel Direccion">
+                <span class="text-danger" asp-validation-for="NewRevision.NivelDireccion"></span>
+            </div>
+            <div class="form-group">
+                <label for="Observacion">Repuestos Novedades</label>
+                <input asp-for="NewRevision.Observacion" type="text" class="form-control" id="txtObservacion" placeholder="Enter Observacion">
+                <span class="text-danger" asp-validation-for="NewRevision.Observacion"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" id="btnEnviar">Submit</button>
+            </div>
+        </form>
+        
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Transport.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>

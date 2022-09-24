@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gagbpmt4xrmA1o+3WY/07rsmnpGy6Lj7wR6dhoFXc6J4uwRrXFyfp3uIZL5A4Of/tqplP35bsuvLkNYod5WbtA==",
+  "dgSpecHash": "APaMVQfeSIwNb29U8WO8k3rbQuS24FkbMklsPfX6wuaU4ypbxnrUIzPHU2eHv9YgSEwQ4j6nxcVSN0B3P1Wq7A==",
   "success": true,
-  "projectFilePath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

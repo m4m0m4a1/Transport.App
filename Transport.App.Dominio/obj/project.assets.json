@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Martha\\.nuget\\packages\\": {}
+    "C:\\Users\\jorge.bermudez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
       "projectName": "Transport.App.Dominio",
-      "projectPath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
-      "outputPath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

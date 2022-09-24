@@ -2044,25 +2044,26 @@
     "net6.0": [
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
       "Transport.App.Dominio >= 1.0.0",
       "Transport.App.Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Martha\\.nuget\\packages\\": {}
+    "C:\\Users\\jorge.bermudez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Transportadora\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
       "projectName": "Transport.App.Consola",
-      "projectPath": "C:\\Transportadora\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
-      "outputPath": "C:\\Transportadora\\Transport.App\\Transport.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\Transport.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2074,11 +2075,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Transportadora\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
-              "projectPath": "C:\\Transportadora\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
+            "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
             },
-            "C:\\Transportadora\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
-              "projectPath": "C:\\Transportadora\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj"
+            "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj"
             }
           }
         }
@@ -2100,6 +2101,10 @@
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.0.8, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.8, )"
           },

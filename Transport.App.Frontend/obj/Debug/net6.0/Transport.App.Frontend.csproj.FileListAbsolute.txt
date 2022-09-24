@@ -24,3 +24,196 @@ C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\refint\Transp
 C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.pdb
 C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.genruntimeconfig.cache
 C:\Clonacion\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\ref\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.staticwebassets.runtime.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.exe
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.deps.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.runtimeconfig.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Transport.App.Frontend.styles.css
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Transport.App.Frontend.bundle.scp.css
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\refint\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\ref\Transport.App.Frontend.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\USUARIO\OneDrive - Universidad Tecnológica de Bolívar\Documentos\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CopyComplete
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfo.cs
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\refint\Transport.App.Frontend.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.staticwebassets.runtime.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.exe
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.deps.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.runtimeconfig.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Transport.App.Frontend.styles.css
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Transport.App.Frontend.bundle.scp.css
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CopyComplete
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.genruntimeconfig.cache
+C:\Users\jorge.bermudez\Documents\net-core-workspace\Transport.App\Transport.App.Frontend\obj\Debug\net6.0\ref\Transport.App.Frontend.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.AssemblyInfo.cs
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\refint\Transport.App.Frontend.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.staticwebassets.runtime.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.exe
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.deps.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.runtimeconfig.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Frontend.pdb
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Dominio.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Persistencia.dll
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Persistencia.pdb
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\bin\Debug\net6.0\Transport.App.Dominio.pdb
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Transport.App.Frontend.styles.css
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Transport.App.Frontend.bundle.scp.css
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.csproj.CopyComplete
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\Transport.App.Frontend.genruntimeconfig.cache
+C:\Users\Martha\Downloads\Transport.App-feature-jorge\Transport.App.Frontend\obj\Debug\net6.0\ref\Transport.App.Frontend.dll

@@ -2030,19 +2030,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Martha\\.nuget\\packages\\": {}
+    "C:\\Users\\jorge.bermudez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Clonacion\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
       "projectName": "Transport.App.Persistencia",
-      "projectPath": "C:\\Clonacion\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Martha\\.nuget\\packages\\",
-      "outputPath": "C:\\Clonacion\\Transport.App\\Transport.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\Transport.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Martha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2054,8 +2054,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
-              "projectPath": "C:\\Clonacion\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
+            "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj"
             }
           }
         }

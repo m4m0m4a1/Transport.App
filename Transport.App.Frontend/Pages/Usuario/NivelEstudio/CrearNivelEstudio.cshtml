@@ -1,0 +1,31 @@
+﻿@page
+@model Transport.App.Frontend.Pages.CrearNivelEstudioModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="NewNivelEstudio.Descripcion">Descripcion</label>
+                <input asp-for="NewNivelEstudio.Descripcion" class="form-control" placeholder="Enter ">
+                <span class="text-danger" asp-validation-for="NewNivelEstudio.Descripcion"></span>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+            
+        </form>
+    </div>
+</body>
+</html>
