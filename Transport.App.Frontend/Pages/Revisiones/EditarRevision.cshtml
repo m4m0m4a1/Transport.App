@@ -1,0 +1,80 @@
+﻿@page
+@model Transport.App.Frontend.Pages.EditarRevisionModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Transport.App.Frontend</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Transport.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <form method="post">
+            <input type="hidden" asp-for="EditRevision.Id">
+            <div class="form-group">
+                <label for="vehiculo">Vehiculo</label>
+                <select class="form-control" asp-for="EditRevision.FkVehiculo">
+                    @foreach (var Vehiculo in Model.vehiculos)
+                    {
+                        <option value="@Vehiculo.Id">@Vehiculo.Placa</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="EditRevision.FkVehiculo"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="revision">Mecanico</label>
+                <select class="form-control" asp-for="EditRevision.FkMecanico">
+                    @foreach (var Persona in Model.personas)
+                    {
+                        <option value="@Persona.Id">@Persona.Nombre</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="EditRevision.FkMecanico"></span>
+            </div>
+            
+            <div class="form-group">
+                <label for="NivelAceite">Nivel de Aceite</label>
+                <input asp-for="EditRevision.NivelAceite" type="text" class="form-control" id="txtNivelAceite" placeholder="Enter Nivel Aceite">
+                <span class="text-danger" asp-validation-for="EditRevision.NivelAceite"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelFrenos">Nivel de Frenos</label>
+                <input asp-for="EditRevision.NivelFrenos" type="text" class="form-control" id="txtNivelFrenos" placeholder="Enter Nivel Frenos">
+                <span class="text-danger" asp-validation-for="EditRevision.NivelFrenos"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelRefrigerante">Nivel de Refrigerante</label>
+                <input asp-for="EditRevision.NivelRefrigerante" type="text" class="form-control" id="txtNivelRefrigerante" placeholder="Nivel Refrigerante">
+                <span class="text-danger" asp-validation-for="EditRevision.NivelRefrigerante"></span>
+            </div>
+            <div class="form-group">
+                <label for="NivelDireccion">Nivel de Direccion</label>
+                <input asp-for="EditRevision.NivelDireccion" type="text" class="form-control" id="txtNivelDireccion" placeholder="Enter Nivel Direccion">
+                <span class="text-danger" asp-validation-for="EditRevision.NivelDireccion"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" id="btnEnviar">Submit</button>
+            </div>
+        </form>
+        
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Transport.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>

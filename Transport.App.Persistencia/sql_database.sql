@@ -20,6 +20,7 @@ GO
 
 CREATE TABLE [Personas] (
     [Id] int NOT NULL IDENTITY,
+    [Identificacion] int NOT NULL,
     [FkTipoDocumento] int NOT NULL,
     [Nombre] nvarchar(max) NOT NULL,
     [Apellido] nvarchar(max) NOT NULL,
@@ -34,9 +35,13 @@ CREATE TABLE [Revisiones] (
     [FKVehiculo] int NOT NULL,
     [FKMecanico] int NOT NULL,
     [NivelAceite] nvarchar(max) NOT NULL,
+    [FechaNivelAceite]  NOT NULL,
     [NivelFrenos] nvarchar(max) NOT NULL,
+    [FechaNivelFrenos]  NOT NULL,
     [NivelRefrigerante] nvarchar(max) NOT NULL,
+    [FechaNivelRefrigerante]  NOT NULL,
     [NivelDireccion] nvarchar(max) NOT NULL,
+    [FechaNivelDireccion]  NOT NULL,
     [Observacion] nvarchar(max) NOT NULL,
     CONSTRAINT [PK_Revisiones] PRIMARY KEY ([Id])
 );

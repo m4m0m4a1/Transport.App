@@ -27,6 +27,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Revisiones/CrearRevision.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aXNpb25lc1xDcmVhclJldmlzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Revisiones/EditarRevision.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aXNpb25lc1xFZGl0YXJSZXZpc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Revisiones/ListarRevision.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aXNpb25lc1xMaXN0YXJSZXZpc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Revisiones/MenuRevision.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmV2aXNpb25lc1xNZW51UmV2aXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jorge.bermudez/Documents/net-core-workspace/Transport.App/Transport.App.Frontend/Pages/Seguros/CrearSeguro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VndXJvc1xDcmVhclNlZ3Vyby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

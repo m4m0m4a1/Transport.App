@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\jorge.bermudez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
       "projectName": "Transport.App.Dominio",
-      "projectPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Tecnológica de Bolívar\\Documentos\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\Transport.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\jorge.bermudez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jorge.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

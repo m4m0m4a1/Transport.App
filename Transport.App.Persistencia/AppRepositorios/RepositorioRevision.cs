@@ -66,9 +66,13 @@ public class RepositorioRevision : IRepositorioRevision
             RevisionEncontrada.FkVehiculo = Revision.FkVehiculo;
             RevisionEncontrada.FkMecanico = Revision.FkMecanico;
             RevisionEncontrada.NivelAceite = Revision.NivelAceite;
+            RevisionEncontrada.FechaNivelAceite = Revision.FechaNivelAceite;
             RevisionEncontrada.NivelFrenos = Revision.NivelFrenos;
+            RevisionEncontrada.FechaNivelFrenos = Revision.FechaNivelFrenos;
             RevisionEncontrada.NivelRefrigerante = Revision.NivelRefrigerante;
+            RevisionEncontrada.FechaNivelRefrigerante = Revision.FechaNivelRefrigerante;
             RevisionEncontrada.NivelDireccion = Revision.NivelDireccion;
+            RevisionEncontrada.FechaNivelDireccion = Revision.FechaNivelDireccion;
             RevisionEncontrada.Observacion = Revision.Observacion;
 
             _appContext.SaveChanges();

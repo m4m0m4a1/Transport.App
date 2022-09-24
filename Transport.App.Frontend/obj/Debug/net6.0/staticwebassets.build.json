@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eKa8mE6Y6hN2g6AqcY336Qc86h1Wi7VwQ8+42xWYnB4=",
+  "Hash": "6I38p3+r8SI+cWFwAYwaKqbzr4UeU0ikPe6x2qNuOQ8=",
   "Source": "Transport.App.Frontend",
   "BasePath": "_content/Transport.App.Frontend",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon_.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\favicon.ico",
+      "SourceId": "Transport.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/Transport.App.Frontend",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\jorge.bermudez\\Documents\\net-core-workspace\\Transport.App\\Transport.App.Frontend\\wwwroot\\js\\scripts.js",
